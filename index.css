@@ -1,5 +1,6 @@
 body{
-background-color: blue;
+background-color: palegoldenrod;
+
 }
 div{
     display: flex;
@@ -11,6 +12,7 @@ div{
     left: 25%;
     top: 20%;
     height: 70%;
+    border-radius: 15px;
 }
 h1{
     position: absolute;
